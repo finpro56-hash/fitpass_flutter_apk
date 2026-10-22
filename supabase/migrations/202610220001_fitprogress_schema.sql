@@ -1,0 +1,5 @@
+-- Applied to Supabase project obzlhgbpfiagkgzrckab via Supabase migration tool.
+-- The project tables, RLS policies and functions are described in README.md.
+-- This file is a migration marker only; for reproducible deployments, export the
+-- complete migration from the Supabase SQL editor/project migration history before
+-- applying it to another project. Do not apply this marker to a new database.
